@@ -1,5 +1,8 @@
 ---
 title: 'My First Blog Post'
+author: '@bruno'
+dates:
+  published: '2023-02-01'
 ---
 
 # Sample Markdown
